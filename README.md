@@ -90,7 +90,6 @@ The only prerequisite of running SonarQube is to have Java (Oracle JRE 8 or Open
     - Re-reun the `sonar-scanner` command from the path where `sonar-project.properties` file is defined/added. This generates the analysis report.
     - Navigate to the `sonarqube` dashboard you should see the `coverage` statistics.
 
-For any additional help, please write me to the `servikash@gmail.com`. I would be happy to help you!
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -101,7 +100,6 @@ ZAP - Development Security Operations
 1. Clone the repo
 2. Update the option.prop file to set basic authentication for secure APIs scan.
 
-**Note:** For more details please follow the [youtube tutorial](https://www.youtube.com/watch?v=rHhn6UE307I)
 
 Notes to the developer:
 - Attached *.html is just for reference. It will get generated every time when we execute the ZAP scan and html report argument is been passed.
