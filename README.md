@@ -102,7 +102,7 @@ ZAP - Development Security Operations
 
 
 Notes to the developer:
-- Attached *.html is just for reference. It will get generated every time when we execute the ZAP scan and html report argument is been passed.
+- Attached *.html is just for reference. It will get generated every time when we execute the ZAP scan and html report argument is been passed
 
 
 ### Reference
